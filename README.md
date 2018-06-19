@@ -1,5 +1,3 @@
-``# rabbitmq-showcase
-rabbitmq示例集合,包含官方的一些应用场景示例，发送方消息确认机制示例、延迟队列实现示例
 ## 官方的应用场景示例
 + simple 最基本的点对点模式
 + workQueue 工作队列
